@@ -1,0 +1,26 @@
+<?php
+$authors_x = array(
+"Xie, Y" => "6",
+"Xin, Z M" => "3",
+"Xiao, L" => "13",
+"Xia, Hui" => "6",
+"Xu, Huji" => "7",
+"Xue, C F" => "3",
+"Xi, Zhiyong" => "5",
+"Xuan, Xuenan" => "4",
+"Xu, B" => "6",
+"Xu, Zhengyao" => "4",
+"Xiao, Huogen" => "8",
+"Xue, Cai-fang" => "6",
+"Xainli, Jia" => "6",
+"Xue, C" => "5",
+"Xu, Jiannong" => "3",
+"Xu, X" => "3",
+"Xu, Wenyue" => "3",
+"Xu, J" => "6",
+"Xie, Lisa H" => "3",
+"Xu, Wen-yue" => "5",
+"Xue, Xiangyang" => "9",
+"Xu, Wen-Yue" => "4",
+"Xu, Lili" => "3");
+?>
