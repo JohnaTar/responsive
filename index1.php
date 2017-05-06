@@ -103,7 +103,7 @@
         </div>
     </nav>
 
-   <!--  ////////////////////////////table////////////////////////////////////////////////////////-->
+   <!--  ////////////////////////////PICTURE ////////////////////////////////////////////////////////-->
     <div class="content-wrapper py-3">
 
         <div class="container">
@@ -111,37 +111,90 @@
 
 
 
-<div class="row">
+<div class="row" style="border:1px solid #CCCCCC;box-shadow: 0 0 3px 3px #EEEEEE; ">
 
-           <div class="col-xl-12 col-sm-6 mb-3">
-                     <div class="card mb-3">
-                            <table width="90%" style=" padding-top:10px;" align="center">
-            <tr>
-                <td align="center"><img class="wow flipInY" data-wow-offset="200" src="images/icon_expert.png" width="100" ></td>
-                <td align="center"><img class="wow flipInY" data-wow-offset="200" src="images/sgd.jpg" width="150" ></td>
-                <td align="center"><img class="wow flipInY" data-wow-offset="200" src="images/Research.jpg" width="100" ></td>
-                <td align="center"></td>
-            </tr>
-            <tr><td><br></td></tr>
-            <tr>
-                                <td align="center"><div class="number-expert"><b>500 Expert </div></td><td align="center"><b>400 Institute</td><td align="center"><b>100,000 Published </td>
-                        </tr>
-             <tr>
-                                <td align="center"><img class="wow flipInY" data-wow-offset="200" src="images/mcsp-icon-malaria-v2.png" width="100" ></td>
-                                <td align="center"><img class="wow flipInY" data-wow-offset="200" src="images/icon-vacunas.png" width="100" ></td>
-                                <td align="center"><img class="wow flipInY" data-wow-offset="200" src="images/collaboration.png" width="100" ></td>
-                                <td align="center"></td>
-                        </tr>
-                        <tr><td><br></td></tr>
-                        <tr>
-                                <td align="center"><div class="number-expert"><b>xxx Malaria or Dengue</div></td><td align="center"><b>xxx Vaccine</td><td align="center"><b>xxx Collaborative </td>
-                        </tr>
+           <div class="col-md-4 " style="text-align: center; padding-top: 25px">
+           
+                            <a href="#">
+                                <img  class="card-img-top img-fluid" src="images/icon_expert.png" width="100"  alt="">
+                            </a>
+                            <div class="card-block" style="padding-top: 45px">
+                                <h6 class="card-title mb-1"><a href="#">500 Expert</a></h6>
+                               
+                            </div>
+                           
+             </div>
+        <!-- ////////////////////////////////////////////     picture 2//////////////////////////////////////////////////// -->
 
-        </table>
+              <div class="col-md-4" style="text-align: center; ">
+           
+                            <a href="#">
+                                <img class="card-img-top img-fluid " src="images/sgd.jpg" width="150" alt="">
+                            </a>
+                            <div class="card-block">
+                                <h6 class="card-title mb-1"><a href="#">400 Institute</a></h6>
+                               
+                            </div>
                            
-                           
-                        </div>
-        </div>
+                            
+             </div>
+         <!-- ////////////////////////////////////////////     picture 3//////////////////////////////////////////////////// -->
+
+
+              <div class="col-md-4" style="text-align: center; padding-top: 25px">
+           
+                            <a href="#">
+                                <img class="card-img-top img-fluid" width="100" src="images/Research.jpg" alt="">
+                            </a>
+                            <div class="card-block" style="padding-top: 45px">
+                                <h6 class="card-title mb-1"><a href="#">100,000 Published</a></h6>
+                                
+                            </div>
+                            
+             </div>
+         <!-- ////////////////////////////////////////////     picture 4//////////////////////////////////////////////////// -->
+
+
+               <div class="col-md-4" style="text-align: center; padding-top: 25px">
+           
+                            <a href="#">
+                                <img class="card-img-top img-fluid" width="100" src="images/mcsp-icon-malaria-v2.png" alt="">
+                            </a>
+                            <div class="card-block" style="padding-top: 45px">
+                                <h6 class="card-title mb-1"><a href="#">100,000 Published</a></h6>
+                                
+                            </div>
+                            
+             </div>
+         <!-- ////////////////////////////////////////////     picture 5//////////////////////////////////////////////////// -->
+
+
+               <div class="col-md-4" style="text-align: center; padding-top: 25px">
+           
+                            <a href="#">
+                                <img class="card-img-top img-fluid" width="100" src="images/icon-vacunas.png" alt="">
+                            </a>
+                            <div class="card-block" style="padding-top: 45px">
+                                <h6 class="card-title mb-1"><a href="#">100,000 Published</a></h6>
+                                
+                            </div>
+                            
+             </div>
+         <!-- ////////////////////////////////////////////     picture 6//////////////////////////////////////////////////// -->
+
+
+               <div class="col-md-4" style="text-align: center; padding-top: 25px">
+           
+                            <a href="#">
+                                <img class="card-img-top img-fluid" width="100" src="images/collaboration.png" alt="">
+                            </a>
+                            <div class="card-block" style="padding-top: 45px">
+                                <h6 class="card-title mb-1"><a href="#">100,000 Published</a></h6>
+                                
+                            </div>
+                            
+             </div>                
+                
                 
                 
                 
