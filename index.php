@@ -111,7 +111,7 @@
             </ul>
         </div>
     </nav>
-<div style=" padding-top:150px;"> </div>
+<div style=" padding-top:100px;"> </div>
 
    <!--  ////////////////////////////PICTURE ////////////////////////////////////////////////////////-->
     <div class="content-wrapper py-3" >
@@ -263,7 +263,7 @@
 <style type="text/css">
     .footer-bottom {
  background:#444;
- padding:30px 0;
+ padding:10px 0;
  border-top:1px solid #d9d9d9;
  font-size:16px;
  color:white;
