@@ -139,7 +139,8 @@
                 <option value="common_name">Vaccine</option>
               </select>
 		<input type="hidden" value="top" id="front" name="front" >
-              <input name="button_search"  value=" GO "  type="submit" class="button_search" align="middle" /> <input name="button_search"  value="Advanced Search" onclick="window.location.href='index2.php?page=advanced_search';"  class="button_search" align="middle" />
+        <input name="button_search"  value=" GO "  type="submit" class="button_search" align="middle" /> 
+        <input name="button_search" class="btn-" value="Advanced Search" onclick="window.location.href='index2.php?page=advanced_search';"  class="button_search" align="middle" />
             </form>
           </li>
         </ul>
